@@ -1,2 +1,2 @@
 # projeto-apeperia
-Arquivos do projeto para a Apeperia
+Arquivos do projeto para a Apeperia, site criado a partir do curso " Layouts Responsivos: trabalhando com layouts mobile Layouts Responsivos: trabalhando com layouts mobile", da Alura.
